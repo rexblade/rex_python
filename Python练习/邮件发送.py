@@ -7,7 +7,7 @@ from email.mime.application import MIMEApplication  #添加附件的库
 # 邮件的基本配置变量
 mail_host = "smtp.exmail.qq.com"   # SMTP服务器
 mail_user = "xuweijun@peilian.com"   # 用户名
-mail_pwd = "3h64BfaFzakbhVcb"   # 登录密码   #网易的16位授权密码LKXBFZWEWJPEFAMU
+mail_pwd = "**********"   #16位授权密码
 to_addr = 'kidmagic@126.com' # 收件人邮箱
 mail_port = 465  # SSL默认是465
 # 创建正文内容
